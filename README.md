@@ -1,4 +1,4 @@
-# Hi there, I'm Vadim 👋
+# Hi there, I'm Vadim
 
 🇧🇾 Minsk, Belarus  
 2nd year Computer Engineering student at BSUIR.  
